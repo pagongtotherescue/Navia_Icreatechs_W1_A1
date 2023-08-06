@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+textarea {
+    height: 150px;
+}
+input[type="submit"] {
+    margin-top: 20px;
+    padding: 10px 20px 10px;
+    width: 330px;
+    border: none;
+    cursor: pointer;
+    background-color: green;
+    color: #fff;
+}
